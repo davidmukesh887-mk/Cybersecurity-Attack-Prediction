@@ -26,6 +26,7 @@ Project Results
 Dashboard
 
 The Power BI dashboard displays:
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 - Correct and Incorrect Predictions
 - Total Predictions
